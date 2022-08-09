@@ -1,0 +1,28 @@
+h1 {
+color: blue;
+font-family: Broadway;
+}
+.bt-suma{
+background-color: aqua;
+
+
+}
+.rest{
+   background-color: rgb(66, 136, 216);
+}
+
+.mult{
+   background-color: rgb(230, 156, 218);
+}
+.divsi {
+   background-color: rgb(163, 242, 27);
+}
+.poten {
+   background-color: rgb(216, 216, 24);
+}
+.con {
+   background-color: rgb(196, 73, 85);
+}
+body {
+   background-color: rgb(147, 171, 241);
+}
